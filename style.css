@@ -19,6 +19,10 @@ selector {
 
 }
 
+h2{
+    color: #a340ff;
+}
+
 #button-cv{
     border: 2px solid #a340ff;
     color: #a340ff;
