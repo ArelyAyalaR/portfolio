@@ -57,12 +57,12 @@ h2{
     font-style: normal;
 }
 
-.button-group button{
+.button-group a{
     border: 2px solid #a340ff;
     color: #a340ff;
 }
 
-.button-group button:hover{
+.button-group a:hover{
     background-color: #a340ff; 
     color: white;
     border: 2px solid #a340ff;

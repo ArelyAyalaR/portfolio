@@ -26,10 +26,10 @@ let typewriterFrase = new Typewriter(frase, {
 // a veces tiene el operador punto
 typewriterFrase
   .pauseFor(2500) // milisegundos 2.5 segundos
-  .typeString('"...Por lo tanto, lo que debemos hacer es esforzarnos y perseverar y NUNCA RENDIRNOS."')
+  .typeString('"Still in progress"')
   .pauseFor(300)
   .deleteAll()
-  .typeString('Dalai Lama IX')
+  .typeString('Jejeje')
   .pauseFor(1000)
   .start();
 
